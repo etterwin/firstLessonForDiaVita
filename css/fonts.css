@@ -1,0 +1,56 @@
+/*scheme*/
+
+    .scheme__contetn-text-right {
+      color: #083f7d;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    .scheme__container-logo-text {
+      font-family: 'DaysOne-Regulare';
+      color: #308a56;
+      font-size: 30px;
+    }
+
+    .text-partners {
+      color: #083f7d;
+      font-size: 28px;
+      font-weight: bold;
+    }
+
+    .main__container-text {
+      font-size: 28px;
+      color: #308a56;
+      font-weight: bold;
+    }
+
+  /*triger*/
+
+    .triger__img-text {
+      font-size: 26px;
+      color: #308a56;
+    }
+
+    .control-checkbox-text {
+      font-size: 16px;
+      color: white;
+    }
+
+  /*about*/
+
+    .about-caption {
+      font-size: 20px;
+      color: #308a56;
+    }
+
+    .about-text {
+      font-size: 18px;
+      color: white;
+    }
+
+/*footer*/
+
+  .footer-text {
+    color: white;
+    font-size: 16px;
+  }
